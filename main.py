@@ -1,3 +1,3 @@
 import keyword
-print("python keywords are \n")
+print("python keywords  \n")
 print (keyword.kwlist)
